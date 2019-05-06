@@ -1,0 +1,22 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DBNavigator.Actions.DataEditor.DuplicateRecord" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowReformatFileDialog" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
